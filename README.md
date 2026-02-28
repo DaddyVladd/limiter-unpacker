@@ -1,6 +1,6 @@
-# API Tweaks — NetLimiter AutoPatcher
+# API Tweaks AOI NetLimiter AutoPatcher
 
-Automated patcher for NetLimiter. No PowerShell, no hex editing, no manual DLL swapping — just run it and you're done.
+Automated patcher for NetLimiter. No PowerShell, no hex editing, no manual DLL swapping just a simple run and done.
 
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Qn2MEEW3NN)
 [![Downloads](https://img.shields.io/badge/%23downloads-Channel-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1082095781466607637/1338764503428497441)
@@ -60,7 +60,7 @@ Expected. The exe modifies system files and injects DLLs so it looks suspicious 
 
 ## Updates
 
-Whenever NetLimiter releases an update I'll rebuild with the new DLLs and push a new release. Just download the latest exe and run it again.
+Whenever NetLimiter releases an update I'll rebuild with the new DLLs and push a new release. Just download the latest exe and run it again. No guarantees on same day updates.
 
 ---
 
